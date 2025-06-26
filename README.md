@@ -1,4 +1,5 @@
 ### Hi there, I'm Sai Prasad Reddy 👋
+<h3 align="center">Campus Ambassador @ GirlScript Summer of Code 2025 | Cloud & Cybersecurity Enthusiast | BTech CSE Student at Anurag University</h3>
 
 ![Professional photo](https://github.com/user-attachments/assets/9188b016-4ff6-4c35-bdca-8992db4c8570)
 
@@ -10,6 +11,7 @@ I'm a passionate and curious **Computer Science undergrad** from **Anurag Univer
 ---
 
 💡 **About Me:**
+- 🧑‍🏫 **Campus Ambassador** for **GSSoC 2025**
 - 🎓 Final-year BTech CSE Student | Class of 2025
 - ☁️ Google Cloud Certified: *Associate Cloud Engineer (In Progress)*
 - 🔐 Cybersecurity Enthusiast | Forage, Cisco, and AICTE Certified
