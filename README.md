@@ -38,7 +38,7 @@ I'm a passionate and curious **Computer Science undergrad** from **Anurag Univer
 ---
 
 🔗 **Let’s Connect:**
-- 💼 [LinkedIn](www.linkedin.com/in/sai-prasad-reddy-0222sp)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-prasad-reddy-0222sp/)  
 - 📬 vakiti.saiprasadreddy2004@gmail.com  
 - 🌐 Portfolio coming soon...
 
